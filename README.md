@@ -49,7 +49,7 @@
 `$ catkin_init_workspace`  
 
 ## 2. 다양한 PKG 설치    
-### 2-1) 가장 먼저 CAN 통신을 위해 scout_mini_ros github code를 clone해야 한다.
+### 2-1) [가장 먼저 CAN 통신을 위해 scout_mini_ros github code를 clone해야 한다.](https://github.com/roasinc/scout_mini_ros.git)    
 
 Installation
 ```
@@ -86,7 +86,7 @@ rostopic pub -1 /cmd_vel geometry_msgs/Twist '{linear: {x: 1.0, y: 0.0, z: 0.0},
 
 ------------
 
-### 2-2) 다음으로 Detection & Tracking 부분 설치
+### 2-2) [다음으로 Detection & Tracking 부분 설치](https://github.com/We-Go-Autonomous-driving/main2_one_person.git)
 이 코드에 scout_mini can이 있지만 우리 조는 잘 작동하지 않아 사용하지 않음
 
 Installation
@@ -132,7 +132,7 @@ scout-mini에 대해 더 자세히 알고 싶다면 [여기](https://github.com/
 ------------     
 
 ### 2-3) 다음으로 SLAM 실행
-### RPLiDAR를 사용허기 위한 github code 설치
+### [RPLiDAR를 사용허기 위한 github code 설치](https://github.com/robopeak/rplidar_ros)
   
 Installation
 ```
@@ -153,7 +153,7 @@ cd src/rplidar_ros
 roslaunch rplidar_ros view_rplidar.launch
 ```
   
-### SLAM 알고리즘의 하나인 Hector Slam github code 설치
+### [SLAM 알고리즘의 하나인 Hector Slam github code 설치](https://github.com/tu-darmstadt-ros-pkg/hector_slam)
 ![MAP](images/rviz_screenshot_2023_05_23-15_55_42.png)  
 Installation
 ```
