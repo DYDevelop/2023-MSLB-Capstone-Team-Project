@@ -129,6 +129,8 @@ scout-mini에 대해 더 자세히 알고 싶다면 [여기](https://github.com/
 
 - 341번 줄 기본 drive4에서 drive1 or 2로 변경  
 
+- Depth를 사용하지 않아 BBOX의 크기를 통해 정지 시행
+
 ------------     
 
 ### 2-3) 다음으로 SLAM 실행
