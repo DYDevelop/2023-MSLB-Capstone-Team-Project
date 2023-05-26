@@ -87,6 +87,7 @@ rostopic pub -1 /cmd_vel geometry_msgs/Twist '{linear: {x: 1.0, y: 0.0, z: 0.0},
 ------------
 
 ### 2-2) 다음으로 Detection & Tracking 부분 설치
+이 코드에 scout_mini can이 있지만 우리 조는 잘 작동하지 않아 사용하지 않음
 
 Installation
 ```
