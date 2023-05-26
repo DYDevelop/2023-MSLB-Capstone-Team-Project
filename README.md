@@ -36,7 +36,7 @@
 4) 1.6.1까지 진행  
 5) 설치 후 터미널에서 `roscore` 실행으로 정상적으로 설치되었는지 확인  
 
-![roscore](image/roscore.png)  
+![roscore](images/roscore.png)  
 
 참고) ROS Melodic에서 Python3를 사용하기 위해서는 아래 명령어 입력 필요  
 `$ sudo apt-get install python3-catkin-pkg-modules`  
@@ -153,7 +153,7 @@ roslaunch rplidar_ros view_rplidar.launch
 ```
   
 ### SLAM 알고리즘의 하나인 Hector Slam github code 설치
-![MAP](image/rviz_screenshot_2023_05_23-15_55_42.png)  
+![MAP](images/rviz_screenshot_2023_05_23-15_55_42.png)  
 Installation
 ```
 cd ~/point_ws/src
