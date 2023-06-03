@@ -247,4 +247,4 @@ source devel/setup.bash
 rosrun map_server map_saver -f ~/map1
 ```
 도움주신 [My cat is Rockstar](https://velog.io/@bbirong/series/Human-Following-Robot)   
-최종발표 영상[YouTube](https://youtu.be/xlu7-WNG6TI)
+최종발표 영상 [YouTube](https://youtu.be/xlu7-WNG6TI)
