@@ -175,6 +175,7 @@ roslaunch rplidar_ros view_slam.launch
 ------------
 
 ## 3. 최종 경로(요약)  
+```
 wego_ws      
 ├build  
 ├devel/setup.bash  
@@ -194,7 +195,7 @@ point_ws
 └src     
 　├hector_slam      
 　└rplidar_ros     
-   
+```
 ## 4. 사용 방법 (각각 다른 터미널에서 실행)
 - 가장먼저 CAN0를 통해 scout_mini랑 연결하기
 ```
