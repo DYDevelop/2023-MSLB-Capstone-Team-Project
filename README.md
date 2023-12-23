@@ -134,7 +134,7 @@ scout-mini에 대해 더 자세히 알고 싶다면 [여기](https://github.com/
 ------------     
 
 ### 2-3) 다음으로 SLAM 실행
-### [RPLiDAR를 사용허기 위한 github code 설치](https://github.com/robopeak/rplidar_ros)
+### [RPLiDAR를 사용하기 위한 github code 설치](https://github.com/robopeak/rplidar_ros)
   
 Installation
 ```
